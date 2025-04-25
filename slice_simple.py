@@ -3,5 +3,4 @@ def slice_simple():
     texto = texto.lower()
     print(texto[0:3])
     print(texto[2:5])
-    print(f"{texto[0:4]}{texto[4: ]}")
-    
+    print(texto)
